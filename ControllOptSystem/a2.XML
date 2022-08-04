@@ -1,0 +1,272 @@
+<Brigade>
+  <Barn address="1" lines="3">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="4">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="5">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="6">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="7">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="8">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="9">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="10">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="11">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="12">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="13">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="14">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="15">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="2" lines="4">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="4">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="3" lines="2">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="4">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="5">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="4" lines="2">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="5" lines="2">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="6" lines="2">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="7" lines="2">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="8" lines="2">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+  <Barn address="9" lines="2">
+    <Led address="1">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="2">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+    <Led address="3">
+      <correct>90</correct>
+      <dimming>9000</dimming>
+      <line>
+      </line>
+    </Led>
+  </Barn>
+</Brigade>
